@@ -1,3 +1,4 @@
+TRUNCATE albums;
 INSERT INTO albums (artist, recordName, releaseDate, genre, sales)
 
 VALUES ('Michael Jackson', 'Thriller', 1982, 'Pop, Rock, R&B', 47.3),
