@@ -5,7 +5,7 @@ USE join_test_db;
 
 SELECT COUNT(*), roles.name FROM roles JOIN users ON roles.id = users.role_id GROUP BY roles.name;
 # JOIN roles ON users.role_id GROUP BY
-# SELECT COUNT(*), roles.name FROM roles GROUP BY roles.name;
+SELECT COUNT(*), roles.name FROM roles GROUP BY roles.name;
 
 
 
