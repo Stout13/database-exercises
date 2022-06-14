@@ -6,7 +6,7 @@
 #
 
 
-
+USE employees;
 # SELECT * FROM titles;
 # SELECT CONCAT(employees.last_name, ', ', employees.first_name) FROM employees;
 
