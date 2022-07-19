@@ -1,0 +1,54 @@
+//RESULTS OF BENCHMARKING USING 3 ALGOS AND VARYING ARRAY SIZES WITH RANDOM INTS
+
+//          Selection Sort time results
+//          array length 1000
+//          max element value of 100
+//          with a run time of 3 milliseconds
+//
+//
+//          Selection Sort time results
+//          array length 1000
+//          with a max element value of 100
+//          with a run time of 0 milliseconds
+//
+//
+//          Selection Sort time results
+//          array length 1000
+//          with a max element value of 100
+//          with a run time of 0 milliseconds
+//
+//
+//          Selection Sort time results
+//          array length 10000
+//          max element value of 100
+//          with a run time of 37 milliseconds
+//
+//
+//          Selection Sort time results
+//          array length 10000
+//          with a max element value of 100
+//          with a run time of 1 milliseconds
+//
+//
+//          Selection Sort time results
+//          array length 10000
+//          with a max element value of 100
+//          with a run time of 0 milliseconds
+//
+//
+//          Selection Sort time results
+//          array length 100000
+//          max element value of 100
+//          with a run time of 2153 milliseconds
+//
+//
+//          Selection Sort time results
+//          array length 100000
+//          with a max element value of 100
+//          with a run time of 3 milliseconds
+//
+//
+//          Selection Sort time results
+//          array length 100000
+//          with a max element value of 100
+//          with a run time of 3 milliseconds
