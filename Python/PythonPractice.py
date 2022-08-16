@@ -2,16 +2,14 @@ import pandas as pd
 import numpy as np
 
 
-from google.colab import drive
-drive.mount('/content/drive')
+# from google.colab import drive
+# drive.mount('/content/drive')
 
 price = [2, 1, 10, 0, 0, 0, 0]
 type(price)
 
 quantity = [17, 40, 1, 0, 0, 0, 0]
 type(quantity)
-
-import numpy as np
 
 price_array = np.array(price)
 quantity_array = np.array(quantity)
